@@ -1,2 +1,2 @@
-# task-1
- First task on HNG
+# Task-1
+ first task on hng
